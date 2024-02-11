@@ -1,5 +1,5 @@
 <?php
 if(true){
-    echo 'result : true';
+    echo 'result : true', 'Hello World';
 }
 ?>
